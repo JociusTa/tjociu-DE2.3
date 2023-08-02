@@ -1,0 +1,22 @@
+Fin job sites for aggregation
+    https://remotive.com/
+    https://weworkremotely.com/
+    https://www.indeed.com/
+Create tables in postgresql
+
+     TABLE : JOBS
+
+    Job title
+    Name of the company
+    Link to the job ad
+    Job type (full-time, part-time, contract, etc.)
+    Region (anywhere in the World, Europe, etc.)
+    Salary (in Eur)
+    Timestamp, when the job ad was posted
+
+Create views in postgreqsl
+    The number of new job ads that contain "data engineer" in the title (per day).
+    The number of new job ads that contain "data engineer" in the title and are remote friendly (per day).
+    The maximum, minimum, average, and standard deviation of salaries of job ads that contain "data engineer" in the title (total and per day).
+
+practice building custom Apache Airflow
